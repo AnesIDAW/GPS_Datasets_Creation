@@ -1,4 +1,3 @@
-````markdown
 # Creating GPS Datasets from Google maps roads
 
 ## Get the Map road from google maps
@@ -80,7 +79,3 @@ pytest tests/
 ## 💡 Why?
 
 Quickly generate realistic datasets for GPS simulation, mapping apps, machine learning projects, and route analysis.
-
----
-
-````
